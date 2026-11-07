@@ -1,0 +1,11 @@
+{
+  "name": "zakat-ts-murabaha-schedule",
+  "version": "1.0.0",
+  "description": "Shariah-Compliant Cost-Plus Murabaha Amortization Engine (مجدول عقود المرابحة الإسلامية للآمر بالشراء)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
